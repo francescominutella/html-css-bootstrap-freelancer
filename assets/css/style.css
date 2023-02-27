@@ -1,0 +1,17 @@
+:root {
+    --color-header: #2c3e50;
+    --color-location: #3a546d;
+    --color-primary: #1abc9c;
+  }
+
+  header{
+    background-color: var(--color-header);
+  }
+
+  /* #region DEBUG */
+  .debug [class^=col]{
+    border: 1px solid black ;
+  }
+  
+
+   /* #endregion DEBUG */
