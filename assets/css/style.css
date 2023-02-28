@@ -34,3 +34,6 @@
 #app_footer_bottom{
   background-color: var(--color-dark);
 }
+.bgc_btn_send{
+  background-color: var(--color-primary);
+}
