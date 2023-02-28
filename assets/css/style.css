@@ -31,6 +31,6 @@
 #location{
   background-color: var(--color-location);
 }
-#copyright{
+#app_footer_bottom{
   background-color: var(--color-dark);
 }
