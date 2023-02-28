@@ -38,10 +38,18 @@
   background-color: var(--color-primary);
 }
 
-.line_star_jumbo{
+.line_star_light{
   width: 100%;
   height: 4px;
   background-color: var(--color-light);
+  border-radius: 50px;
+  padding: 0;
+  margin: 0;
+}
+.line_star_dark{
+  width: 100%;
+  height: 4px;
+  background-color: black;
   border-radius: 50px;
   padding: 0;
   margin: 0;
