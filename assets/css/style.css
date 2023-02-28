@@ -56,3 +56,10 @@
   padding: 0;
   margin: 0;
 }
+.circle_web{
+  border: 1px solid var(--color-light);
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  display: inline-block;
+}
