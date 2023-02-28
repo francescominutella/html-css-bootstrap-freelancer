@@ -2,16 +2,22 @@
     --color-header: #2c3e50;
     --color-location: #3a546d;
     --color-primary: #1abc9c;
+    --color-light: #ffffff;
   }
 
   header{
     background-color: var(--color-header);
   }
 
-  /* #region DEBUG */
+/* #region DEBUG */
   .debug [class^=col]{
     border: 1px solid black ;
   }
   
 
-   /* #endregion DEBUG */
+/* #endregion DEBUG */
+
+
+
+
+/* #region HEADER */
