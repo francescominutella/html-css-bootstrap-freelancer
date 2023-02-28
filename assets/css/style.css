@@ -28,3 +28,6 @@
 #about{
   background-color: var(--color-primary);
 }
+#location{
+  background-color: var(--color-location);
+}
