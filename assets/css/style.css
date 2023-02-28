@@ -20,4 +20,8 @@
 
 
 
-/* #region HEADER */
+/* #region MAIN */
+
+#jumbotron{
+  background-color: var(--color-primary);
+}
